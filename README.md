@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
