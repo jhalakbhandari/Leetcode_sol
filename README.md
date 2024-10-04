@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0175-combine-two-tables) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
