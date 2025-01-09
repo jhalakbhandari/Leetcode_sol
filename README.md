@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0191-number-of-1-bits) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
