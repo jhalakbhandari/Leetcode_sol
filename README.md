@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0202-happy-number) |
 ## Database
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
