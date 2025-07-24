@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0222-count-complete-tree-nodes) |
+| [0792-binary-search](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0792-binary-search) |
 ## Tree
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0219-contains-duplicate-ii) |
+| [0792-binary-search](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
