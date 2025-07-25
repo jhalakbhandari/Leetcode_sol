@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0219-contains-duplicate-ii) |
 ## Math
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0205-isomorphic-strings) |
 ## Stack
 |  |
 | ------- |
