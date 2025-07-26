@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0219-contains-duplicate-ii) |
+| [0645-set-mismatch](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0222-count-complete-tree-nodes) |
+| [0645-set-mismatch](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0219-contains-duplicate-ii) |
+| [0645-set-mismatch](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0217-contains-duplicate) |
+| [0645-set-mismatch](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0645-set-mismatch) |
 ## Sliding Window
 |  |
 | ------- |
