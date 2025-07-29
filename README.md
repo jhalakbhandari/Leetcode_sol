@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0792-binary-search) |
 | [0954-maximum-sum-circular-subarray](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0954-maximum-sum-circular-subarray) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0283-move-zeroes) |
 ## Database
 |  |
 | ------- |
