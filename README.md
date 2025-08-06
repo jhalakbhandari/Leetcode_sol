@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0414-third-maximum-number) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
