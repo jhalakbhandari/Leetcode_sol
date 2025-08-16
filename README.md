@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0792-binary-search) |
 ## Tree
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0493-reverse-pairs](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0493-reverse-pairs) |
 | [0645-set-mismatch](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0792-binary-search) |
 | [0954-maximum-sum-circular-subarray](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0954-maximum-sum-circular-subarray) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0191-number-of-1-bits) |
+| [0493-reverse-pairs](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0493-reverse-pairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
@@ -248,4 +251,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
