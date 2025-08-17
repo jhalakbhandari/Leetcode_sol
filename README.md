@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0056-merge-intervals) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0202-happy-number) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0169-majority-element) |
