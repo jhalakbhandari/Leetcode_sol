@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0645-set-mismatch) |
 ## Math
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0493-reverse-pairs) |
+| [0594-longest-harmonious-subsequence](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0792-binary-search) |
 | [0954-maximum-sum-circular-subarray](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0954-maximum-sum-circular-subarray) |
@@ -221,12 +223,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0414-third-maximum-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0645-set-mismatch) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0594-longest-harmonious-subsequence) |
 ## Design
 |  |
 | ------- |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0594-longest-harmonious-subsequence) |
 ## Monotonic Queue
 |  |
 | ------- |
