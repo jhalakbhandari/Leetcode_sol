@@ -1,12 +1,15 @@
 class Solution {
 public:
-    bool containsNearbyDuplicate(vector<int>& nums, int k) {
-        std::unordered_map<int,int>index_map;
-        for(int i=0;i<nums.size();++i){
-             if(index_map.find(nums[i])!=index_map.end() && i -index_map[nums[i]] <= k){
+    bool containsNearbyDuplicate(vector<int>& nums, int k) {   
+        unordered_set<int> st;
+        for(int i=0;i<nums.size();i++){
+            if(st.find(nums[i])!=st.end()){
                 return true;
-             }
-            index_map[nums[i]] = i;
+            }
+            st.insert(nums[i]);
+            if(st.size()>k){
+                st.erase(nums[i-k]);
+            }
         }
         return false;
     }
