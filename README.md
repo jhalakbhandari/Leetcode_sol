@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0645-set-mismatch) |
+| [1873-longest-nice-substring](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/1873-longest-nice-substring) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0205-isomorphic-strings) |
+| [1873-longest-nice-substring](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/1873-longest-nice-substring) |
 ## Stack
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0645-set-mismatch) |
+| [1873-longest-nice-substring](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/1873-longest-nice-substring) |
 ## Simulation
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0493-reverse-pairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0954-maximum-sum-circular-subarray) |
+| [1873-longest-nice-substring](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/1873-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0643-maximum-average-subarray-i) |
+| [1873-longest-nice-substring](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/1873-longest-nice-substring) |
 ## Design
 |  |
 | ------- |
