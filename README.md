@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
