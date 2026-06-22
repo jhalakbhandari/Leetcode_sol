@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0128-longest-consecutive-sequence) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
