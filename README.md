@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0268-missing-number) |
+| [3024-type-of-triangle](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/3024-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0792-binary-search) |
 | [0954-maximum-sum-circular-subarray](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0954-maximum-sum-circular-subarray) |
+| [3024-type-of-triangle](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0645-set-mismatch) |
+| [3024-type-of-triangle](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/3024-type-of-triangle) |
 ## Sliding Window
 |  |
 | ------- |
