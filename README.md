@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0792-binary-search) |
 | [0954-maximum-sum-circular-subarray](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0954-maximum-sum-circular-subarray) |
 | [3024-type-of-triangle](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/3024-type-of-triangle) |
+| [3200-maximum-height-of-a-triangle](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/3200-maximum-height-of-a-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -324,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [3200-maximum-height-of-a-triangle](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/3200-maximum-height-of-a-triangle) |
 <!---LeetCode Topics End-->
