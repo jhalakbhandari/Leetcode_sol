@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0493-reverse-pairs) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0645-set-mismatch) |
 | [1873-longest-nice-substring](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/1873-longest-nice-substring) |
 ## Simulation
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jhalakbhandari/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
